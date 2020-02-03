@@ -1,2 +1,0 @@
-# scanlog
-Activity Aubay
